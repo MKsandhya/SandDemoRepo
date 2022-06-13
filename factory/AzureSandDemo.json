@@ -1,0 +1,9 @@
+{
+	"name": "AzureSandDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52c8d1b5-33d4-43eb-a781-681c9e0c7826",
+		"tenantId": "66efb473-18f8-41d8-97d9-42adb8185ef8"
+	}
+}
