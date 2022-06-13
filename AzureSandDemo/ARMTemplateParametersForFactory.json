@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "AzureSandDemo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
